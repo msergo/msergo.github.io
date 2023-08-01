@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enable external display for dmcrypt promtp"
+title:  "Enable external display for dmcrypt prompt"
 ---
 Occasionally I use my laptop in docked mode. As always, I have a full-disk encryption [made with dmcrypt](/2023/02/04/notes-on-fde-arch-linux.html) but the prompt for typing the password is visible on the built display only. It is an expected behavior because the graphic module is not initialized yet. 
 
